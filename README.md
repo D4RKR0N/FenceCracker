@@ -5,3 +5,7 @@
 
 # BY: D4RKR0N !!
 # GR33TZ: Xin0x - TkaTheGod - Malokin - Feist - Clandestine - Aj4x - Charlie BCA - Plastyne - Luiz !!!!
+# Twitter: https://www.twitter.com/D4RKR0N
+# Facebook: https://www.facebook.com/J0rdan.NT
+
+# Necessário ter instalado: requests,pysocks,colorama. (os outros modulos usados ja vem no python3!) 
